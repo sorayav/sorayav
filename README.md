@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi there 👯
 
+My name is Soraya and I'm a Spanish front-end developer jr specializing in JavaScript, React, UI design (HTML5 & CSS3, Sass, etc.) and API integration.
+
+- 🔭 I’m currently looking for an exciting opportunity to work in! 
+
+Some of my projects:
+✺ [Rick & Morty app](https://github.com/sorayav/modulo-3-evaluacion-final-sorayav): a responsive web application developed with React (and React Router), responsive (and fun!) UI and external API integration.
+✺ [Relax app](https://github.com/sorayav/relax-app): an application to take a moment to breath 😲. Built with JavaScript vanilla and using Vibrate and Share APIs for mobile. Open the music player to be accompanied by a tranquil song while you breath.
+✺ [Neumorphic clock](https://github.com/sorayav/js-clock): a clock coded with JavaScript and designed under the neumorphism style. UX experiment.
+✺ [TV shows app](https://github.com/sorayav/modulo-2-evaluacion-final-sorayav): JavaScript application to find tv shows, their information and add / remove them as favourites. API and localStorage implementation.
+
+💬 Don't hesitate to [contact me](https://twitter.com/SocialSoraya)!
 <!--
 **sorayav/sorayav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🌱 I’m currently learning 
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
