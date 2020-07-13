@@ -11,7 +11,7 @@ Some of my projects:
 - ✺ [TV shows app](https://github.com/sorayav/modulo-2-evaluacion-final-sorayav): JavaScript application to find tv shows, their information and add / remove them as favourites. API and localStorage implementation.
 
 ---
-<p style="vertical-align:right">
+<p align:right>
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/js.svg" alt="JavaScript" style="vertical-align:top; margin:2px">
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/react.svg" alt="React" style="vertical-align:top; margin:2px">
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/html.svg" alt="HTML" style="vertical-align:top; margin:2px">
