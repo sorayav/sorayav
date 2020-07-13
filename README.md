@@ -10,6 +10,13 @@ Some of my projects:
 - ✺ [Neumorphic clock](https://github.com/sorayav/js-clock): a clock coded with JavaScript and designed under the neumorphism style. UX experiment.
 - ✺ [TV shows app](https://github.com/sorayav/modulo-2-evaluacion-final-sorayav): JavaScript application to find tv shows, their information and add / remove them as favourites. API and localStorage implementation.
 
+---
+
+## Tech stack:
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/js.svg" alt="JavaScript" style="vertical-align:top; margin:2px">
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/react.svg" alt="React" style="vertical-align:top; margin:2px">
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/html.svg" alt="HTML" style="vertical-align:top; margin:2px">
+
 💬 Don't hesitate to [contact me](https://twitter.com/SocialSoraya)!
 <!--
 **sorayav/sorayav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
