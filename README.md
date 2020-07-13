@@ -1,9 +1,9 @@
 ### Hi there 👯
 
 My name is Soraya and I'm a Spanish front-end developer jr specializing in <span>
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/js.svg" alt="JavaScript" style="vertical-align:middle; margin:2px">
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/react.svg" alt="React" style="vertical-align:middle; margin:2px">
-</span> UI design (HTML5 & CSS3, Sass, etc.) and API integration.
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/js.svg" alt="JavaScript" style="vertical-align:bottom; margin-right:2px">
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/react.svg" alt="React" style="vertical-align:bottom; margin-right:2px">
+</span>, UI design (HTML5 & CSS3, Sass, etc.) and API integration.
 
 🔭 I’m currently looking for an exciting opportunity to work in and grow! 
 
