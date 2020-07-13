@@ -2,7 +2,7 @@
 
 My name is Soraya and I'm a Spanish front-end developer jr specializing in JavaScript, React, UI design (HTML5 & CSS3, Sass, etc.) and API integration.
 
-🔭 I’m currently looking for an exciting opportunity to work in and grow! 
+🔭 I’m currently looking for an exciting opportunity to work in and grow, 💬 don't hesitate to [contact me](https://twitter.com/SocialSoraya)!
 
 Some of my projects:
 - ✺ [Rick & Morty app](https://github.com/sorayav/modulo-3-evaluacion-final-sorayav): a responsive web application developed with React (and React Router), external API integration and out of this world 👾 UI.
@@ -17,7 +17,6 @@ Some of my projects:
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/html.svg" alt="HTML" style="vertical-align:top; margin:2px">
 </p>
 
-💬 Don't hesitate to [contact me](https://twitter.com/SocialSoraya)!
 <!--
 **sorayav/sorayav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
