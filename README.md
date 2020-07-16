@@ -12,9 +12,9 @@ Some of my projects:
 
 ---
 <p align="right">
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/js.svg" alt="JavaScript" style="vertical-align:top; margin:2px">
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/react.svg" alt="React" style="vertical-align:top; margin:2px">
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/html.svg" alt="HTML" style="vertical-align:top; margin:2px">
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/js.svg" alt="JavaScript" style="vertical-align:top; margin:2px">
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/react.svg" alt="React" style="vertical-align:top; margin:2px">
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/html.svg" alt="HTML" style="vertical-align:top; margin:2px">
 </p>
 
 <!--
