@@ -24,7 +24,9 @@ I'm curious by nature and I take making other laugh very seriously.
 </p>
 
 ---
+<p align="right">
 <a href="https://twitter.com/SocialSoraya"><img src="https://img.shields.io/badge/-@SocialSoraya-purple?style=for-the-badge&logo=twitter" alt="My Twitter"></a>
+</p>
 
 <!--
 **sorayav/sorayav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
