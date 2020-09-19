@@ -1,9 +1,9 @@
 
 ## Hi there 👯
 
-My name is Soraya and I'm a Spanish front-end developer working with JavaScript, React, HTML5 & CSS3 (Sass) and API integration.
+My name is Soraya and I'm a Spanish front-end developer working with JavaScript, React, HTML5 & CSS3 (Sass), Blade and API integration.
 
-🌱 I’m currently learning Laravel and Blade.
+🌱 I’m looking forward to learning Python and Node.
 
 I'm curious by nature and I take making others laugh very seriously.
 
