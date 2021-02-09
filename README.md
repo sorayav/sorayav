@@ -17,6 +17,9 @@ I'm curious by nature and I take making others laugh very seriously.
 <p>
 <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin:2px">
 <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40" style="margin:2px">
+<img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/php/php-plain.svg" alt="PHP" width="40" height="40" style="margin:2px">
+<img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="40" height="40" style="margin:2px">
+<img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/mysql/mysql.svg" alt="MySQL" width="40" height="40" style="margin:2px">
 <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" style="margin:2px">
 <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" style="margin:2px">
 <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/sass/sass-original.svg" alt="SASS" width="40" height="40" style="margin:2px">
