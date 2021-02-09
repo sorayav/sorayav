@@ -3,7 +3,7 @@
 
 My name is Soraya and I'm a Spanish front-end developer working with JavaScript, jQuery, React, HTML5 & CSS3 (Sass, Bootstrap), Laravel and API integration.
 
-🌱 Currently learning: MEAN stack, PHP, Laravel and MySQL.
+🌱 Learning: MEAN stack, PHP, Laravel and MySQL.
 
 I'm curious by nature and I take making others laugh very seriously.
 
