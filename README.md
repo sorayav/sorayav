@@ -3,11 +3,12 @@
 
 My name is Soraya and I'm a Spanish front-end developer working with JavaScript, jQuery, React, HTML5 & CSS3 (Sass, Bootstrap), Laravel and API integration.
 
-🌱 Learning: MEAN stack, PHP, Laravel and MySQL.
+🌱 Learning: MEAN stack.
 
 I'm curious by nature and I take making others laugh very seriously.
 
 #### Some of my projects:
+- ✺ [Paint my screen](https://github.com/sorayav/paint-my-screen): Speech recognition web app that changes background color with the one said 💬.
 - ✺ [Rick & Morty app](https://github.com/sorayav/modulo-3-evaluacion-final-sorayav): a responsive web application developed with React (and React Router), external API integration and out of this world 👾 UI.
 - ✺ [Relax app](https://github.com/sorayav/relax-app): an application to take a moment to breath 😲. Built with JavaScript vanilla and using Vibrate and Share web APIs for mobile. Open the music player to be accompanied by a tranquil song while you breath.
 - ✺ [Neumorphic clock](https://github.com/sorayav/js-clock): a clock coded with JavaScript and designed under the neumorphism style. UX experiment.
