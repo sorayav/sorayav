@@ -1,9 +1,9 @@
 
 ## Hi there 👯
 
-My name is Soraya and I'm a Spanish front-end developer building with JavaScript, jQuery, React, HTML5 & CSS3 (Sass, Bootstrap), Laravel and API integration.
+My name is Soraya and I'm a Spanish front-end developer building with JavaScript, React, HTML5 & CSS3 (Sass, Tailwind), Laravel and API integration.
 
-🌱 Learning: MEAN stack.
+🌱 Learning: MERN stack.
 
 I'm curious by nature and I take making others laugh very seriously.
 
@@ -33,10 +33,3 @@ I'm curious by nature and I take making others laugh very seriously.
 <p align="right">
 <a href="https://twitter.com/SocialSoraya"><img src="https://img.shields.io/badge/-@SocialSoraya-purple?style=for-the-badge&logo=twitter" alt="My Twitter"></a>
 </p>
-
-<!--
-**sorayav/sorayav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-- 🌱 I’m currently learning 
-- 💬 Ask me about ...
-- ⚡ Fun fact: ...
--->
