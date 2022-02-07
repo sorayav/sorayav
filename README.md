@@ -8,9 +8,9 @@ I'm curious by nature and I take making others laugh very seriously.
 ---
 
 #### Currently:
- 🚀 Working with Javascript (React), PHP (Laravel) and SASS.
+ 🚀 Working with Javascript (React, Next), SCSS and GraphQL.
 
-🌱 Learning and exploring MERN stack, bot creation, TensorFlow.js.
+🌱 Learning and exploring Node, bot creation, TensorFlow.js.
 
 ---
 
