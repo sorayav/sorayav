@@ -8,13 +8,13 @@ I'm curious by nature and I take making others laugh very seriously.
 ---
 
 #### Currently:
- 🚀 Working with Javascript (React, Next), SCSS and GraphQL.
+ 🚀 Working with Javascript (React, Next), SCSS and GraphQL / Apollo. Deploying with Gitlab.
 
-🌱 Learning and exploring Node, bot creation, TensorFlow.js.
+🌱 Learning and exploring Node, bot creation, GSAP...
 
 ---
 
-#### Some of my projects:
+#### Some of my projects (to be updated!):
 
 - ✺ [Paint my screen](https://github.com/sorayav/paint-my-screen): Speech recognition web app that changes background color with the one said 💬.
 - ✺ [Rick & Morty app](https://github.com/sorayav/modulo-3-evaluacion-final-sorayav): a responsive web application developed with React (and React Router), external API integration and out of this world 👾 UI.
